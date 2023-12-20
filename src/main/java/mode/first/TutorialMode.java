@@ -11,7 +11,7 @@ public class TutorialMode implements ModInitializer {
 	// That way, it's clear which mod wrote info, warnings, and errors.
 	public static final String MOD_ID = "tutorialmode";
     public static final Logger LOGGER = LoggerFactory.getLogger("tutorialmode");
-
+//some example code
 	@Override
 	public void onInitialize() {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
